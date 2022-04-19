@@ -1,0 +1,29 @@
+.App {
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  margin: 0px 10px 0px 10px;
+  text-align: center;
+}
+
+.List {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  padding-top: 30px;
+}
+
+.form{
+  display: flex;
+  justify-content: center;
+  margin:30px;
+}
